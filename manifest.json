@@ -1,0 +1,29 @@
+{
+    "name": "Diego Gracia Cruz",
+    "short_name": "Portafolio",
+    "description": "Bienvenid@s a Portafolio",
+    "background_color": "#8A2BE2",
+    "theme_color": "#8A2BE2",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [
+      {
+        "src": "./imagenes/512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "./imagenes/44.png",
+        "sizes": "44x44",
+        "type": "image/png"
+      },
+      {
+        "src": "./imagenes/32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      }
+    ]
+  }
